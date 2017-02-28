@@ -1,13 +1,14 @@
 class hello
 {
 	int id;
-	String name;
+	String name,company;
 
 	public void detail(){
 
 		name="shivam";
 	id=75557;
-	System.out.println(name+ " " +id);
+		company="capgemini";
+	System.out.println(name+  +company+  +id);
 	}
 
 	public static void main(String args[])
