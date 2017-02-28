@@ -3,10 +3,10 @@ class hello
 	int id;
 	String name;
 
-	public void detaiil(){
+	public void detail(){
 
 		name="shivam";
-	id="75557";
+	id=75557;
 	System.out.println(name+ " " +id);
 	}
 
