@@ -8,7 +8,7 @@ class hello
 		name="shivam";
 	id=75557;
 		company="capgemini";
-	System.out.println(name+ , +company+ ,  +id);
+	System.out.println(name+ " " +company+ ""  +id);
 	}
 
 	public static void main(String args[])
